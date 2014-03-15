@@ -1,22 +1,29 @@
-{
-  "author": "liuxu",
+{ 
   "name": "taxcal",
-  "description": "Node commandline application to replace selected text in a file.",
+  "description": "Node commandline application to calculate tax",
   "version": "0.1.1",
   "repository": {
-    "url": ""
+    "type": "git",
+    "url": "git://github.com/fenfenxu/tax-calculator.git"
   },
   "main": "./lib/main",
   "bin": {
     "tax-cli": "./bin/tax-cli.js"
   },
   "dependencies": {
-
     "node-getopt" : "*"
-    },
+  },
   "devDependencies": {},
   "optionalDependencies": {},
   "engines": {
     "node": "*"
+  },
+  "keywords" : [
+    "tax",
+    "calculator"
+  ],
+  "author": {
+    "name" : "liuxu",
+    "email" : "liuluxu1989@gmail.com"
   }
 }
