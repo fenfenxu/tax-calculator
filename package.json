@@ -1,5 +1,5 @@
 { 
-  "name": "taxcal",
+  "name": "tax-calculator",
   "description": "Node commandline application to calculate tax",
   "version": "0.1.1",
   "repository": {
