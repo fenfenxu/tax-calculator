@@ -1,7 +1,7 @@
 { 
   "name": "tax-calculator",
   "description": "Node commandline application to calculate tax",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "repository": {
     "type": "git",
     "url": "git://github.com/fenfenxu/tax-calculator.git"

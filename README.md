@@ -11,6 +11,7 @@ Description:
 
 	Not supported cities, with a common standard to calculate.
 
+	Standard for different cities is copied from http://9mi.me/
 	
 
 
