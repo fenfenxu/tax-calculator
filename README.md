@@ -22,7 +22,7 @@ Install with npm:
 	sudo npm uninstall tax-calculator -g
 
 
-Usage
+Usage:
 
 	tax-cli --options cityname salary
 
